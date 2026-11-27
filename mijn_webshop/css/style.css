@@ -1,15 +1,15 @@
 body {
-    background-color: red;
+    background-color: black;
 }
 
 
 
 header {
-    background-color: #f2f2f2;
+    background-color: #FF8C00;
     height: 100px;
 }
 main {
-    background-color: #c9c9c9;
+    background-color: #B8860B;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -18,7 +18,7 @@ main {
 
 }
 footer {
-    background-color: #b3b3b3;
+    background-color: #F4A460;
     height: 100px;
 }
 
